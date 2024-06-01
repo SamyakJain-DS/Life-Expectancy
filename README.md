@@ -13,6 +13,8 @@ Find out the important drivers of life expectancy
 
 ## Some Visualisation (Output)
 
+<a href="/Submitables/21058 Samyak Jain Life Expectancy Project pdf.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 [Samyak Jain Life Expectancy Project pdf.pdf](https://github.com/user-attachments/files/15522383/21058.Samyak.Jain.Life.Expectancy.Project.pdf.pdf)
 
 [Samyak Jain Life Expectancy Project presentation.pptx](https://github.com/user-attachments/files/15522385/21058.Samyak.Jain.Life.Expectancy.Project.presentation.pptx)
