@@ -1,31 +1,34 @@
-# PROJECTNAME
+# 2D Platformer Game Using PyGame.
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+To make a small 2D pokemon themed mario type platformer game using python, and its library PyGame.
+This was originally our college final semester python project.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- PyGame Library
+- Advanced Python Debugging
+- Advanced Python Problem Solving
+- Files and Folder Management
+
+## The Game (Output)
+
+![instructions](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/279b2283-945d-4b68-bb1b-0f40df33bdd1)
+
+![credits](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/9c3b50a9-d4c0-43f6-aa58-3e76b285ccda)
+
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/fb399c26-3554-45b4-bdb1-59cbe84ce510
+
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/e30d7969-a794-4699-ac99-9ee0bf9455d5
+
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/588c5f51-1642-41ce-a12a-02ce2f2a87e8
+
+https://github.com/SamyakJain-DS/PokeMario/assets/142383509/35caafbb-6594-4fbb-9d43-54775aa7fba0
+
+![lose screen](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/41bdaa62-e1d1-4584-9f65-b3099bc3af59)
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+- Python
+- PyGame Library
