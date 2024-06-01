@@ -2,7 +2,10 @@
 
 ## Objective
 
-Find out the important drivers of life expectancy.
+The primary objective of the study was to determine the most influential variables of life expectancy from the many which were provided in the
+dataset.
+Also, to compare the developed nations with the developing nations on the basis of their overall quality of life, life expectancy and its
+determinants.
 
 ### Skills Learned
 
@@ -11,14 +14,14 @@ Find out the important drivers of life expectancy.
 - Presenting the Findings
 - Data Analytics and Research Skills
 
-## Some Visualisation (Output)
+## THE RESEARCH REPORT
 
 <a href="https://github.com/SamyakJain-DS/Life-Expectancy/blob/main/life%20expectancy/Submitables/21058%20Samyak%20Jain%20Life%20Expectancy%20Project%20pdf.pdf">Research Report PDF</a>
 
-Linear Regression:
+## Linear Regression:
 ![image](https://github.com/SamyakJain-DS/Life-Expectancy/assets/142383509/4acbeff4-a12f-418c-8194-3db37caee001)
 
-Some screenshots from the presentation:
+## Some screenshots from the presentation:
 
 ![image](https://github.com/SamyakJain-DS/Life-Expectancy/assets/142383509/d648dc2c-e894-4c3b-b0e5-9583f60a1820)
 
@@ -26,7 +29,7 @@ Some screenshots from the presentation:
 
 ![image](https://github.com/SamyakJain-DS/Life-Expectancy/assets/142383509/aab2efae-2d3a-472b-92a7-03f555d986de)
 
-Visualisations:
+## Visualisations:
 
 ![Countries Split](https://github.com/SamyakJain-DS/Life-Expectancy/assets/142383509/8e63a05f-260d-4579-ad03-f9759ce7275b)
 
