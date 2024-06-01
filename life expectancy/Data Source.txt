@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+https://hdr.undp.org/data-center/specific-country-data#/countries/USA
+https://www.czso.cz/csu/czso/ari/population-change-4-quarter-2014-q91zsn7atp
+https://datatopics.worldbank.org/world-development-indicators/
