@@ -1,4 +1,4 @@
-# THE FOURTH PROJECT : Regression Analysis of Life Expectancy and its Determinants
+# Regression Analysis of Life Expectancy and its Determinants
 
 ## Objective
 
