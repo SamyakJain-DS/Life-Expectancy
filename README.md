@@ -19,6 +19,14 @@ determinants.
 <a href="https://github.com/SamyakJain-DS/Life-Expectancy/blob/main/life%20expectancy/Submitables/21058%20Samyak%20Jain%20Life%20Expectancy%20Project%20pdf.pdf">Research Report PDF</a>
 
 ## Linear Regression:
+
+The Dataset:
+![image](https://github.com/user-attachments/assets/8a13fa17-c93e-4827-a410-30d3505d9b4a)
+
+Correlation Analysis:
+![image](https://github.com/user-attachments/assets/1e277f0e-2349-40cc-9f00-b7be87d9562a)
+
+Model:
 ![image](https://github.com/SamyakJain-DS/Life-Expectancy/assets/142383509/4acbeff4-a12f-418c-8194-3db37caee001)
 
 ## Some screenshots from the presentation:
