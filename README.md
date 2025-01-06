@@ -1,6 +1,6 @@
-## Regression Analysis of Life Expectancy and its Determinants
+# Regression Analysis of Life Expectancy and its Determinants
 
-# Key Contributions:
+### Key Contributions:
 
 - Data Analysis and Research: Conducted comprehensive data analysis to identify key factors influencing life expectancy, distinguishing between developed and developing nations.
 - Statistical Modeling: Applied linear regression techniques to quantify the impact of various determinants on life expectancy.
@@ -8,7 +8,7 @@
 - Data Visualization: Created insightful visualizations to effectively communicate findings, highlighting disparities and trends across different countries.
 - Presentation Skills: Compiled and presented research findings in a structured format, demonstrating the ability to convey complex information clearly.
 
-# Skills Demonstrated
+### Skills Demonstrated
 
 - Advanced Statistics
 - Linear Regression and Machine Learning
