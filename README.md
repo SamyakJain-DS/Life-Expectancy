@@ -1,18 +1,21 @@
 # Regression Analysis of Life Expectancy and its Determinants
 
-## Objective
+## Key Contributions:
 
-The primary objective of the study was to determine the most influential variables of life expectancy from the many which were provided in the
-dataset.
-Also, to compare the developed nations with the developing nations on the basis of their overall quality of life, life expectancy and its
-determinants.
+- Data Analysis and Research: Conducted comprehensive data analysis to identify key factors influencing life expectancy, distinguishing between developed and developing nations.
+- Statistical Modeling: Applied linear regression techniques to quantify the impact of various determinants on life expectancy.
+- Advanced Excel Proficiency: Utilized advanced Excel functions for data manipulation, statistical analysis, and visualization.
+- Data Visualization: Created insightful visualizations to effectively communicate findings, highlighting disparities and trends across different countries.
+- Presentation Skills: Compiled and presented research findings in a structured format, demonstrating the ability to convey complex information clearly.
 
-### Skills Learned
+### Skills Demonstrated
 
 - Advanced Statistics
-- Advanced Excel
-- Presenting the Findings
-- Data Analytics and Research Skills
+- Linear Regression and Machine Learning
+- Data Analytics
+- Excel (Advanced Functions and Data Analysis Toolpak)
+- Data Visualization
+- Presentation and Communication
 
 ## THE RESEARCH REPORT
 
